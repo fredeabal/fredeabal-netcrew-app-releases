@@ -2,16 +2,16 @@
 
 Cliente de escritorio oficial y multiplataforma (**macOS, Windows y Linux**) para conectarse de forma sencilla a redes privadas VPN P2P Mesh gestionadas con **[NetCrew](https://netcrew.es)**.
 
-## Descargas (v0.1.2)
+## Descargas (última versión)
 
 | Sistema operativo | Instalador | Descarga directa |
 | :--- | :--- | :--- |
-| **macOS** (Apple Silicon e Intel) | `.dmg` universal | [NetCrew.Client_0.1.2_universal.dmg](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/download/v0.1.2/NetCrew.Client_0.1.2_universal.dmg) |
-| **Windows** (64-bit) | Instalador `.exe` | [NetCrew.Client_0.1.2_x64-setup.exe](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/download/v0.1.2/NetCrew.Client_0.1.2_x64-setup.exe) |
-| **Windows** (64-bit) | Paquete `.msi` | [NetCrew.Client_0.1.2_x64_en-US.msi](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/download/v0.1.2/NetCrew.Client_0.1.2_x64_en-US.msi) |
-| **Linux** (Ubuntu / Debian) | Paquete `.deb` | [NetCrew.Client_0.1.2_amd64.deb](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/download/v0.1.2/NetCrew.Client_0.1.2_amd64.deb) |
-| **Linux** (Universal) | `.AppImage` | [NetCrew.Client_0.1.2_amd64.AppImage](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/download/v0.1.2/NetCrew.Client_0.1.2_amd64.AppImage) |
-| **Linux** (Fedora / RHEL) | Paquete `.rpm` | [NetCrew.Client-0.1.2-1.x86_64.rpm](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/download/v0.1.2/NetCrew.Client-0.1.2-1.x86_64.rpm) |
+| **macOS** (Apple Silicon e Intel) | `.dmg` universal | [NetCrew-Client-macOS.dmg](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-macOS.dmg) |
+| **Windows** (64-bit) | Instalador `.exe` | [NetCrew-Client-Windows-Setup.exe](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Windows-Setup.exe) |
+| **Windows** (64-bit) | Paquete `.msi` | [NetCrew-Client-Windows.msi](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Windows.msi) |
+| **Linux** (Ubuntu / Debian) | Paquete `.deb` | [NetCrew-Client-Linux-amd64.deb](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Linux-amd64.deb) |
+| **Linux** (Universal) | `.AppImage` | [NetCrew-Client-Linux-amd64.AppImage](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Linux-amd64.AppImage) |
+| **Linux** (Fedora / RHEL) | Paquete `.rpm` | [NetCrew-Client-Linux-x86_64.rpm](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Linux-x86_64.rpm) |
 
 Todas las versiones y archivos adicionales están disponibles en **[Releases](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest)**.
 
