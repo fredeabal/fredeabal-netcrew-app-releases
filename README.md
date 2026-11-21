@@ -7,7 +7,7 @@
 [![Última versión](https://img.shields.io/github/v/release/fredeabal/fredeabal-netcrew-app-releases?style=for-the-badge&color=f97316&label=Última%20versión)](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest)
 [![Descargas](https://img.shields.io/github/downloads/fredeabal/fredeabal-netcrew-app-releases/total?style=for-the-badge&color=162136&label=Descargas)](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases)
 ![Plataformas](https://img.shields.io/badge/Plataformas-macOS%20%C2%B7%20Windows%20%C2%B7%20Linux%20%C2%B7%20Android-22c55e?style=for-the-badge)
-![Motor](https://img.shields.io/badge/Motor-Nebula%20P2P%20Mesh-1e293b?style=for-the-badge)
+![Red](https://img.shields.io/badge/Red-VPN%20P2P%20Mesh-1e293b?style=for-the-badge)
 
 [Descargar última versión](#descargas) · [Cómo conectarse](#cómo-conectarse) · [Primer arranque](#primer-arranque-por-sistema-operativo) · [Web oficial](https://netcrew.es)
 
@@ -17,7 +17,7 @@
 
 ## Características principales
 
-- **Conexión P2P Mesh cifrada:** comunicación directa y segura entre dispositivos sobre **Nebula**.
+- **Conexión P2P Mesh cifrada:** comunicación directa y segura entre dispositivos.
 - **Importación en segundos:** arrastra tu archivo `.yml` o pega tu enlace temporal (`/connect/...`).
 - **Ligero y multiplataforma:** aplicación nativa para **macOS**, **Windows**, **Linux** y **Android**.
 - **Estado en tiempo real:** comprobación automática de conectividad con la red VPN.
