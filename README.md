@@ -2,11 +2,11 @@
 
 # NetCrew Client
 
-**Cliente de escritorio oficial para conectarse a redes privadas VPN P2P Mesh gestionadas con [NetCrew](https://netcrew.es).**
+**Cliente oficial para conectarse a redes privadas VPN P2P Mesh gestionadas con [NetCrew](https://netcrew.es).**
 
 [![Última versión](https://img.shields.io/github/v/release/fredeabal/fredeabal-netcrew-app-releases?style=for-the-badge&color=f97316&label=Última%20versión)](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest)
 [![Descargas](https://img.shields.io/github/downloads/fredeabal/fredeabal-netcrew-app-releases/total?style=for-the-badge&color=162136&label=Descargas)](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases)
-![Plataformas](https://img.shields.io/badge/Plataformas-macOS%20%C2%B7%20Windows%20%C2%B7%20Linux-22c55e?style=for-the-badge)
+![Plataformas](https://img.shields.io/badge/Plataformas-macOS%20%C2%B7%20Windows%20%C2%B7%20Linux%20%C2%B7%20Android-22c55e?style=for-the-badge)
 ![Motor](https://img.shields.io/badge/Motor-Nebula%20P2P%20Mesh-1e293b?style=for-the-badge)
 
 [Descargar última versión](#descargas) · [Cómo conectarse](#cómo-conectarse) · [Primer arranque](#primer-arranque-por-sistema-operativo) · [Web oficial](https://netcrew.es)
@@ -19,7 +19,7 @@
 
 - **Conexión P2P Mesh cifrada:** comunicación directa y segura entre dispositivos sobre **Nebula**.
 - **Importación en segundos:** arrastra tu archivo `.yml` o pega tu enlace temporal (`/connect/...`).
-- **Ligero y multiplataforma:** aplicación nativa para **macOS**, **Windows** y **Linux**.
+- **Ligero y multiplataforma:** aplicación nativa para **macOS**, **Windows**, **Linux** y **Android**.
 - **Estado en tiempo real:** comprobación automática de conectividad con la red VPN.
 
 ---
@@ -37,6 +37,7 @@
 | **Linux** *(Ubuntu / Debian)* | `amd64` | Paquete `.deb` | [**Descargar `.deb`**](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Linux-amd64.deb) |
 | **Linux** *(Universal)* | `amd64` | `.AppImage` | [**Descargar `.AppImage`**](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Linux-amd64.AppImage) |
 | **Linux** *(Fedora / RHEL)* | `x86_64` | Paquete `.rpm` | [**Descargar `.rpm`**](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Linux-x86_64.rpm) |
+| **Android** *(7.0+)* | Universal (`arm64` / `x86_64`) | Paquete `.apk` | [**Descargar `.apk`**](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest/download/NetCrew-Client-Android.apk) |
 
 Todas las versiones anteriores y archivos adicionales están disponibles en la sección de [**Releases**](https://github.com/fredeabal/fredeabal-netcrew-app-releases/releases/latest).
 
@@ -82,6 +83,14 @@ Si utilizas el paquete `.AppImage`, asegúrate de darle permisos de ejecución a
 chmod +x NetCrew-Client-Linux-amd64.AppImage
 ./NetCrew-Client-Linux-amd64.AppImage
 ```
+
+</details>
+
+<details>
+<summary><b>Android — Instalación del APK y permiso VPN</b></summary>
+
+1. Al abrir el archivo `NetCrew-Client-Android.apk` descargado, Android te pedirá permitir la instalación desde esa fuente (*Instalar aplicaciones desconocidas*).
+2. La primera vez que pulses el interruptor para conectar un perfil, acepta la solicitud del sistema para crear la conexión VPN (`VpnService`).
 
 </details>
 
